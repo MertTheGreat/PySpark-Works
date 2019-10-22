@@ -17,7 +17,7 @@ Examples for big-data processing with PySpark
 * Find the 3 common numbers that that found on at least two winning number
 * #### [Solutions 4](https://github.com/MertTheGreat/PySpark-Works/blob/master/Notebooks/Mert-Ertugrul-Question4.ipynb)
 
-**Example 5** Using [Foreign Exchange Value of Turkish Lira Data Set] (https://github.com/MertTheGreat/PySpark-Works/blob/master/data-sets/DolarVerileri.txt)
+**Example 5** Using [Foreign Exchange Value of Turkish Lira Data Set](https://github.com/MertTheGreat/PySpark-Works/blob/master/data-sets/DolarVerileri.txt)
 * Find the most depreciated day of Turkish Lira
 * #### [Solutions 5](https://github.com/MertTheGreat/PySpark-Works/blob/master/Notebooks/Mert-Ertugrul-Question5.ipynb)
 
