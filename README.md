@@ -23,4 +23,4 @@ Examples for big-data processing with PySpark
 
 **Example 6** Using [Leaf Data Set](https://github.com/MertTheGreat/PySpark-Works/blob/master/data-sets/sample_multiclass_classification_data.txt)
 * Try Machine Learning algorithms of Spark framework find the model can identfy leaves with higest accuracy
-* #### [Solutions 6](https://github.com/MertTheGreat/PySpark-Works/blob/master/Notebooks/Mert_Ertugrul_Leaf_Identifier.ipynb)  [Model Accuracy Report](https://github.com/MertTheGreat/PySpark-Works/blob/master/Notebooks/Mert_Ertugrul_Leaf_Identifier_Model_Report.pdf)
+* #### [Solutions 6](https://github.com/MertTheGreat/PySpark-Works/blob/master/Notebooks/Mert_Ertugrul_Leaf_Identifier.ipynb) | [Model Accuracy Report](https://github.com/MertTheGreat/PySpark-Works/blob/master/Notebooks/Mert_Ertugrul_Leaf_Identifier_Model_Report.pdf)
