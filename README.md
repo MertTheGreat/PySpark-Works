@@ -1,5 +1,6 @@
 # PySpark-Works
-Examples for big-data processing with PySpark
+Examples for big-data processing with PySpark.
+These examples are notebooks of the codes that used on a Hadoop Cluster. Some of the code needs to work on a cluster to work in a convenient time.
 
 **Example 1:** Using [Capitals Data Set](https://github.com/MertTheGreat/PySpark-Works/blob/master/data-sets/Capitals.txt)
 * Find 5 closest capital. (Do not forget that world is round)
