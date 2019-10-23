@@ -21,6 +21,6 @@ Examples for big-data processing with PySpark
 * Find the most depreciated day of Turkish Lira
 * #### [Solutions 5](https://github.com/MertTheGreat/PySpark-Works/blob/master/Notebooks/Mert-Ertugrul-Question5.ipynb)
 
-**Example 6** Using [Leaf Data Set](https://github.com/MertTheGreat/PySpark-Works/blob/master/data-sets/sample_multiclass_classification_data.txt)[Mirror Link](https://archive.ics.uci.edu/ml/machine-learning-databases/00288/)
+**Example 6** Using [Leaf Data Set](https://github.com/MertTheGreat/PySpark-Works/blob/master/data-sets/sample_multiclass_classification_data.txt) | [Mirror Link](https://archive.ics.uci.edu/ml/machine-learning-databases/00288/)
 * Try Machine Learning algorithms of Spark framework find the model can identfy leaves with higest accuracy
 * #### [Solutions 6](https://github.com/MertTheGreat/PySpark-Works/blob/master/Notebooks/Mert_Ertugrul_Leaf_Identifier.ipynb) | [Model Accuracy Report](https://github.com/MertTheGreat/PySpark-Works/blob/master/Notebooks/Mert_Ertugrul_Leaf_Identifier_Model_Report.pdf)
